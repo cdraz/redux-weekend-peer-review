@@ -111,7 +111,11 @@ You do not notify the user about blank inputs but that's because blank inputs ar
 
 Could potentially use less reducers -- could have one object with a property for each score in a single reducer.
 
+I would encourage you to add more CSS styling to make the page more readable and less cluttered.
+
 Great idea using the selectors for the scores!! I also liked that you converted your scores to numbers before dispatching rather than later down the road.
+
+
 
 ---
 | General Items | Complete? |
